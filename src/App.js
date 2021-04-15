@@ -9,6 +9,7 @@ function App() {
       <h1> franchell.tech
 
       </h1>
+      <p> My website </p>
     </div>
   );
 }
